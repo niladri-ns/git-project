@@ -12,4 +12,4 @@ But I must explain to you how all this mistaken idea of denouncing pleasure and 
 
 ##Adding some more text
 
-Hello, I'm testing git working on local workspace
+Hello, I'm testing git working on local workspace.
